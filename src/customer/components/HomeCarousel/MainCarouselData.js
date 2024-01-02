@@ -1,0 +1,22 @@
+export const mainCarouselData = [
+    {
+        image:"https://i.pinimg.com/564x/30/b9/b2/30b9b2d3725dd8186dc8983352fb0887.jpg",
+        path:"/women/clothing/women_pant",
+    },
+    {
+        image:"https://i.pinimg.com/564x/3a/30/d4/3a30d44a6484c88e4851f3faa21b8b02.jpg",
+        path:"/women/clothing/women_dress",
+    },
+    {
+        image:"https://i.pinimg.com/564x/6a/fc/91/6afc91670812b0e436cb60d1ba2bc744.jpg",
+        path:"/women/clothing/women_dress",
+    },
+    {
+        image:"https://i.pinimg.com/564x/a9/cf/cc/a9cfcc555be67f9fd8684421ff7d6e9b.jpg",
+        path:"/women/clothing/women_t_shirt",
+    },
+    {
+        image:"https://i.pinimg.com/564x/2a/8d/f7/2a8df74182088f7b6a1fb345a6932565.jpg",
+        path:"/women/clothing/women_t_shirt",
+    },
+]
